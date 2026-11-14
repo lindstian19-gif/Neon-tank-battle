@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tank Duel</string>
+    <string name="p1_label">P1</string>
+    <string name="p2_label">P2</string>
+    <string name="shoot_label">SHOOT</string>
+    <string name="dash_label">DASH</string>
+    <string name="pause_desc">Pause or configure match</string>
+    <string name="sound_on_desc">Mute sound effects</string>
+    <string name="sound_off_desc">Enable sound effects</string>
+    <string name="play_duel">START DUEL</string>
+    <string name="resume_duel">RESUME</string>
+    <string name="rematch">REMATCH</string>
+    <string name="arena_label">ARENA</string>
+    <string name="target_score_label">FIRST TO</string>
+    <string name="powerups_label">POWER-UPS</string>
+    <string name="flip_p2_label">FLIP P2 (180°)</string>
+    <string name="joystick_p1">Player 1 movement joystick</string>
+    <string name="joystick_p2">Player 2 movement joystick</string>
+    <string name="dash_p1">Player 1 boost dash</string>
+    <string name="dash_p2">Player 2 boost dash</string>
+    <string name="fire_p1">Player 1 shoot cannon</string>
+    <string name="fire_p2">Player 2 shoot cannon</string>
+</resources>

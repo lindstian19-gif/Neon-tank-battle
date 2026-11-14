@@ -1,0 +1,6 @@
+{
+  "name": "Tank Duel",
+  "description": "Two-player shared-screen neon tank duel arcade game with dual multi-touch controllers, ricocheting shots, destructible sparks, and tactical power-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
